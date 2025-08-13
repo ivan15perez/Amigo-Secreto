@@ -1,5 +1,7 @@
 <h1> PROYECTO DEL AMIGO SECRETO </h1>
 
+Este es un proyecto realizado en el Challenge de ONE (Oreacle Next Education) en colaboracion con Alura Latam Grupo 9 al que pertenezco. Obteniendo logica de programacion para futuros proyectos.
+
 <p align="left">
 <img src="https://img.shields.io/badge/STATUS-CULMINADO-green">
 </p>
